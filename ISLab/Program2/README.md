@@ -8,5 +8,5 @@ result
 
 ### Output
 
-![output](program2_Output.png)
+![output](Output_2.png)
 
