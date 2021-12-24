@@ -7,4 +7,4 @@ program should XOR each character in this string with 0 and displays the result.
 
 
 ### Output
-![output](Output1.png)
+![output](Output_1.png)
