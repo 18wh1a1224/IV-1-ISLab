@@ -5,5 +5,5 @@
 A C/JAVA program to implement the DES algorithm logic
 
 ### Output
-![output](program4_Output.png)
+![output](Program4_Output.png)
 
