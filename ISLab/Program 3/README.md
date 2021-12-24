@@ -10,14 +10,14 @@ b.Substitution Cipher
 c.Hill Cipher
 
 ### Output
-##Ceaser Cipher Output
+## Ceaser Cipher Output
 
 ![output](CeaserCipher3a.png)
 
-##Substitution Output
+## Substitution Output
 
 ![output](Substitution3b.png)
 
-##Hill Cipher Output
+## Hill Cipher Output
 
 ![output](Hill_Cipher3c.png)
