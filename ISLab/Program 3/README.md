@@ -10,3 +10,5 @@ c.Hill Cipher
 
 ### Output
 ![output](CeaserCipher3a.png)
+![output](Substitution3b.png)
+![output](Hill_Cipher3c.png)
