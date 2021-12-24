@@ -6,5 +6,5 @@ A a C/JAVA program to implement the Blowfish algorithm logic.
 
 
 ### Output
-![output](program5_Output.png)
+![output](Output_5.png)
 
